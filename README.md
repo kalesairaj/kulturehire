@@ -15,4 +15,3 @@ It was a great learning experience that improved my understanding of the data li
 ---
 
 > 📂 Explore the project folders (`Excel`, `Power BI`, etc.) to see the work delivered during the internship.
-
