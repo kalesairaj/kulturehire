@@ -69,3 +69,4 @@ This internship strengthened my skills in:
 - Using Excel and Power BI professionally
 - Understanding workplace behavior through data
 
+
